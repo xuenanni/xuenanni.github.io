@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+
+}
+/* */
+p {
+  font-size:48px;
+}
+.body_text{
+  font-size:12px;
+}
+#special{
+  background-color: #ff0000;
+  /* or */background-color: rgb(255,0,0);
+}
+a:hover{
+  /* the hyperlink becomes red */
+}
